@@ -28,8 +28,8 @@ sa,.c lksac lkwsamñlkcmwaslkmlxmwsañlkxmlwamxlkmwkmxsklcnjwqckjscbkjwacnksazcn
     <head>
     <head>
     <body>
-        <p>
+        <p>Esto es un parrafo</p>
     <body>
 <html>
-``
+```
 [link] (https://srv.net.fje.edu/net2/#/lanet "Enlace en la web del cole") 
