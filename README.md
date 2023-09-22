@@ -32,4 +32,4 @@ sa,.c lksac lkwsamñlkcmwaslkmlxmwsañlkxmlwamxlkmwkmxsklcnjwqckjscbkjwacnksazcn
     <body>
 <html>
 ``
-^[link] (https://srv.net.fje.edu/net2/#/lanet "Enlace en la web del cole") 
+[link] (https://srv.net.fje.edu/net2/#/lanet "Enlace en la web del cole") 
