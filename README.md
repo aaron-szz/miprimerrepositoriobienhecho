@@ -35,3 +35,7 @@ sa,.c lksac lkwsamñlkcmwaslkmlxmwsañlkxmlwamxlkmwkmxsklcnjwqckjscbkjwacnksazcn
 [link](https://srv.net.fje.edu/net2/#/lanet "Enlace en la web del cole") 
 
 ![Imagen de planeta](https://github.com/aaron-szz/miprimerrepositoriobienhecho/blob/main/imagen.jpg.jpg "Titulo opcional")
+
+|Titulo |Alineación | Precios|
+|----------|:----------:|------|
+Col 3 es|centrada|$500|
